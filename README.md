@@ -44,8 +44,6 @@
 
 </div>
 
-> A cobrinha só aparece depois de ativar um GitHub Action — passo a passo logo abaixo 👇
-
 ### 📫 Contato
 
 <div align="center">
